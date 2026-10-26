@@ -106,4 +106,4 @@ e otterremo un nuovo token di accesso
 
 ## Online
 
-Il progetto è stato deployato su Railway. Puoi accedere all'applicazione [qui](https://pollingapippm-production.up.railway.app/).
+Il progetto è stato deployato su Railway. Attualmente non è disponibile online.
